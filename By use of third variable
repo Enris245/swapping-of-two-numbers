@@ -8,4 +8,5 @@ scanf("%d%d",&x,&y);
 z=x;
 x=y;
 y=z;
+return 0;
 }
